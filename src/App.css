@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+#sizingF {
+  height: 1000px;
+  width: 500px;
+  margin-left: 75px;
+  margin-right: 75px;
+  float: left;
+}
+#sizingC {
+  float: right;
+}
